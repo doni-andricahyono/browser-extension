@@ -397,7 +397,7 @@
   },
   "teams.microsoft.com": {
     "name": "Microsoft Teams",
-    "link": "*://*teams.microsoft.com/*",
+    "link": "*://teams.microsoft.com/*",
     "script": "microsoft-teams.js"
   }
 }

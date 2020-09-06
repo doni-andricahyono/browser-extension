@@ -394,5 +394,10 @@
     "name": "Freshrelease",
     "link": "*://*.freshrelease.com/*",
     "script": "freshrelease.js"
+  },
+  "teams.microsoft.com": {
+    "name": "Microsoft Teams",
+    "link": "*://teams.microsoft.com/*",
+    "script": "microsoft-teams.js"
   }
 }
